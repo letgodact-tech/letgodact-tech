@@ -1,6 +1,6 @@
 # Let God Act Tech - Transformation Digitale & Formation
 
-![Logo Let God Act Tech](https://letgodact-tech.netlify.app/logo.png) <!-- Remplacez par l'URL de votre logo si disponible -->
+![Logo Let God Act Tech](https://letgodact-tech.netlify.app/logo.svg)
 
 **Innovation & Excellence** | **Allions Créativité & Technologie**
 
